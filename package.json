@@ -1,0 +1,25 @@
+{
+  "name": "project-express-server-week-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yosefhaim707/project-express-server-week-4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/yosefhaim707/project-express-server-week-4/issues"
+  },
+  "homepage": "https://github.com/yosefhaim707/project-express-server-week-4#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
