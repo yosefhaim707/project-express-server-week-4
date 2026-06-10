@@ -1,3 +1,20 @@
 {
-  "users": []
+  "users": [
+    {
+      "id": "48a93442-9a43-4734-ad5a-6b6df61e1b0f",
+      "name": "alex me",
+      "email": "aaa@bbb.com",
+      "passwordHash": "$2b$10$KLT3EjXD/DvADUJ/irsi6.P8L0lenoZzPmLwFGq5x8R7nldWsZhgq",
+      "balance": 500,
+      "cart": [
+        {
+          "productId": 2,
+          "quantity": 3
+        }
+      ],
+      "authToken": "a0db1bcd-9e92-43d9-a359-eb94b0020e3c",
+      "authTokenExpiresAt": "2026-06-10T14:42:08.722Z",
+      "createdAt": "2026-06-10T13:42:08.722Z"
+    }
+  ]
 }
