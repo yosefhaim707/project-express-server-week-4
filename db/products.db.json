@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Gucci eyeglasses",
+      "price": 20.0,
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "name": "Armani eyeglasses",
+      "price": 35.0,
+      "stock": 8
+    },
+    {
+      "id": 3,
+      "name": "Sunglasses",
+      "price": 40.0,
+      "stock": 12
+    },
+    {
+      "id": 4,
+      "name": "VR headset",
+      "price": 150.0,
+      "stock": 3
+    }
+  ]
+}
